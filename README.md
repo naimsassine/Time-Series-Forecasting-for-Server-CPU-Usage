@@ -1,4 +1,4 @@
-# IT_Capacity_Management
+# Time Series Forecasting for CPU future usage
 
 The goal of this project is to complete a study on the different exisiting methods that could be implemented in order to predict
 the future CPU usage of servers : Time Series Forcasting (TSF).
